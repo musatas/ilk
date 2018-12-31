@@ -1,0 +1,2 @@
+# ilk
+ilk git uygulamam
